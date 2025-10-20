@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "LagunaC";
+    src: url("../fonts/lagunac.otf") format(opentype);
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "PTRootUI";
+    src: url("../fonts/PT-Root-UI_Regular.ttf") format(truetype);
+    font-weight: 200;
+    font-style: normal;
+}
+
+

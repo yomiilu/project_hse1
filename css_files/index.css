@@ -1,0 +1,88 @@
+h1{
+    font-size: 140px;
+    font-family: "LagunaC";
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 347px;
+}
+
+h2{
+    font-size: 50.8px;
+    font-family: "PT Root UI";
+    text-align: center;
+    margin-top: -10px;
+    color: #ffffff;
+}
+
+.section1{
+    width: 1440px;
+    height: 900px;
+    margin: 0px;
+    background: linear-gradient(to bottom, #142F57, #E8FCFF);
+}
+
+.section2{
+    width: 1440px;
+    height: 2950px;
+    margin: 0px;
+    background: linear-gradient(to bottom, #E8FCFF, #ffffff);
+
+}
+
+h3{
+    font-size: 42px;
+    font-family: "PT Root UI";
+    text-align: center;
+    padding-top: 244px;
+    padding-left: 245.5px;
+    padding-right: 245.5px;
+    color: #000000;
+}
+
+.glass{
+    width: 100%;
+    padding-top: 150px;
+}
+
+.glass_pieces{
+    margin-top: 150px;
+    margin-left: 72px;
+}
+
+h4{
+    font-size: 60px;
+    font-family: "LagunaC";
+    color: #142F57;
+}
+
+h5{
+    font-size: 22px;
+    font-family: "PT Root UI";
+    padding-top: 5px;
+    color: #000000;
+}
+
+.flowers1{
+    margin-top: -1000px;
+}
+
+.div1 {
+    margin-left: 138px;
+    margin-top: -685px; 
+}
+
+.div2 {
+    margin-left: 138px;
+    margin-top: -843px;
+}
+
+.div3 {
+    margin-left: 808px;
+    margin-top: -685px;
+}
+
+
+.div4 {
+    margin-left: 808px;
+    margin-top: -843px;
+}

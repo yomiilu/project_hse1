@@ -2,10 +2,12 @@ h1{
     font-size: 140px;
     font-family: "LagunaC";
     color: rgb(255, 255, 255);
+}
+
+.headline1{
     text-align: center;
     padding-top: 347px;
 }
-
 h2{
     font-size: 50.8px;
     font-family: "PT Root UI";
@@ -23,11 +25,24 @@ h2{
 
 .section2{
     width: 1440px;
-    height: 2950px;
+    height: 3020px;
     margin: 0px;
     background: linear-gradient(to bottom, #E8FCFF, #ffffff);
+}
+
+.section3{
+    width: 1440px;
+    min-height: 1566px;
+    color: #ffffff;
+}
+
+.section4{
+    width: 1440px;
+    height: 4075px;
+    background: linear-gradient(to bottom, #FFFFFF, #FFFFFF 10%, #E8FCFF 25%, #E8FCFF 40%, #5082AF 70%, #5082AF 86%, #142F57 90%, #142F57 100%);
 
 }
+
 
 h3{
     font-size: 42px;
@@ -60,29 +75,227 @@ h5{
     font-family: "PT Root UI";
     padding-top: 5px;
     color: #000000;
+    line-height: 127%;
+}
+
+h6{
+    font-family: "LagunaC";
+}
+
+.facts{
+    font-size: 30px;
+    color: black;
+}
+
+.italy{
+    margin-top: -808px;
+    margin-left: 218px;
+}
+
+.finland{
+    margin-top: -162px;
+    margin-left: 303px;
+}
+
+.estonya{
+    margin-top: 0px;
+    margin-left: 538px;
+}
+
+.kazahstan{
+    margin-top: -40px;
+    margin-left: 788px;
+}
+
+.russia{
+    margin-top: -40px;
+    margin-left: 1073px;
 }
 
 .flowers1{
-    margin-top: -1000px;
+    margin-top: -550px;
 }
 
-.div1 {
+
+.section2_flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -48%;
+}
+
+.section2_part1, .section2_part2{
+    display: flex;
+    flex-direction: column;
+    height: 24vw;
+    justify-content: space-between;
+}
+
+.div3{
+    margin-left: -12%;
+}
+
+.div4{
+    margin-left: -12%;
+}
+
+.headline2{
+    color: #000000;
+    margin-top: 350px;
+    margin-left: 66px;
+}
+
+.headline3{
+    color: #000000;
+    margin-top: 94px;
+    margin-left: 66px;
+}
+
+.headline4{
+    margin-left: 72px;
+    margin-top: 90px;
+    color: #000000;
+}
+
+.headline5{
+    font-size: 80px;
+    margin-left: 132px;
+    margin-right: 132px;
+    color: #000000;
+    text-align: center;
+    margin-top: 1000px;
+}
+
+.planet{
+    margin-top: 92px;
+}
+
+.where{
+    margin-left: 72px;
+    margin-top: 40px;
+    margin-right: 861px;
+}
+
+.where2{
+    margin-left: 468px;
+    margin-top: 50px;
+    margin-right: 469px;
+}
+
+.history1{
+    margin-left: 72px;
+    margin-top: 40px;
+    margin-right: 861px;
+}
+
+.history2{
+    margin-left: 467px;
+    margin-top: 50px;
+    margin-right: 485px;
+}
+
+.flower2{
+    margin-top: -420px;
+}
+
+.glass_pieced{
+    align-items: center;
+    margin-left: 72px;
+}
+
+.h2003{
     margin-left: 138px;
-    margin-top: -685px; 
+    margin-top: -413px;
 }
 
-.div2 {
-    margin-left: 138px;
-    margin-top: -843px;
+.h2007{
+    margin-left: 517px;
+    margin-top: -53px;
 }
 
-.div3 {
-    margin-left: 808px;
-    margin-top: -685px;
+.h2015{
+    margin-left: 698px;
+    margin-top: 210px;
 }
 
+.h2025{
+    margin-left: 1086px;
+    margin-top: -45px;
+}
 
-.div4 {
-    margin-left: 808px;
-    margin-top: -843px;
+.blue_h5{
+    color: #142F57;
+}
+
+.g1{
+    margin-left: 304px;
+    margin-top: -40px;
+}
+
+.g2{
+    margin-left: 675px;
+    margin-top: -40px;
+}
+
+.g3{
+    margin-left: 864px;
+    margin-top: -40px;
+}
+
+.g4{
+    margin-left: 1252px;
+    margin-top: -40px;
+}
+
+.history2003{
+    margin-left: 72px;
+    margin-right: 1037px;
+    margin-top: -210px;
+}
+
+.history2007{
+    margin-left: 467px;
+    margin-right: 642px;
+    margin-top: -60px;  
+}
+
+.history2015{
+    margin-left: 633px;
+    margin-right: 467px;
+    margin-top: 210px;
+}
+
+.history2025{
+    margin-left: 1040px;
+    margin-right: 49px;
+    margin-top: -60px;
+}
+
+.podval{
+    margin-top: 260px;
+}
+
+.mockups{
+    margin-top: 60px;
+    margin-left: 72px;
+}
+
+.main_mockup{
+    margin-top: -740px;
+    margin-left: 72px;
+    margin-right: 1079px;
+}
+
+.podval_txt{
+    color: #ffffff;
+    margin-left: 72px;
+    margin-right: 1039px;
+    margin-top: -280px;
+}
+
+.podval_me{
+    color: #ffffff;
+    margin-left: 1042px;
+    margin-right: 68px;
+    margin-top: 170px;
 }
